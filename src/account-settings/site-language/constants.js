@@ -42,7 +42,7 @@ const siteLanguageList = [
   {
     code: 'ko-kr',
     name: '한국어 (대한민국)',
-    released: false,
+    released: true,
   },
   {
     code: 'pl',
